@@ -64,7 +64,6 @@ QshaR
 Race
 RaiNy4mrs
 RaiNy4Nealson
-README.md
 Red-Solo
 Red-Unhook
 Seed
