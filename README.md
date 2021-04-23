@@ -10,6 +10,7 @@ To download this repository you have two choices:
 2. `git clone https://github.com/teeheart/kog-maps` and you have the full history of this git repository. To update your copy of maps simply execute `git pull`.
 
 ### Special maps
+Maps that do not belong to the kog official list.
 ```
 - Seed : Training
 - Blessing : Training
