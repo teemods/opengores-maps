@@ -17,6 +17,7 @@ To download this repository you have two choices:
 ```
 
 ### Not recognized maps
+Maps that are in the kog maps zip file but are not listed.
 ```
 0tmp-Portal
 AliveFNGores
