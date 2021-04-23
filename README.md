@@ -68,7 +68,6 @@ Red-Unhook
 Seed
 sep-gores
 sep-trolles
-Shadow Spring
 ShadowSpring
 Summer1v1
 test
