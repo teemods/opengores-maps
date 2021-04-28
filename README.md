@@ -14,7 +14,7 @@ Maps that do not belong to the kog official list.
 ```
 - Seed : Training
 - Blessing : Training
-- Prl4andreew : Hard : Brazil Map
+- Prl4andreew : Hard : 1 Star : 6 Points : Brazil Map
 ```
 
 ### Not recognized Kog maps
