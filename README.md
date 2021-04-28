@@ -1,13 +1,13 @@
-Kog maps
+Gores maps
 ==========
 
-All [Kog](https://qshar.com/) maps, ready to be run in your own server! Simply download this repository, add your DDNet-Server binary (distributed together with the DDNet client) and start the server.
+All DDNet Gores maps, ready to be run in your own server! Simply download this repository, add your DDNet-Server binary (distributed together with the DDNet client) and start the server.
 
 
 To download this repository you have two choices:
 
-1. [Download the ZIP](https://github.com/teeheart/kog-maps/archive/master.zip) and you get a current snapshot of all maps, but can't easily update it.
-2. `git clone https://github.com/teeheart/kog-maps` and you have the full history of this git repository. To update your copy of maps simply execute `git pull`.
+1. [Download the ZIP](https://github.com/teeheart/gores-maps/archive/master.zip) and you get a current snapshot of all maps, but can't easily update it.
+2. `git clone https://github.com/teeheart/gores-maps` and you have the full history of this git repository. To update your copy of maps simply execute `git pull`.
 
 ### Special maps
 Maps that do not belong to the kog official list.
@@ -17,7 +17,7 @@ Maps that do not belong to the kog official list.
 - Prl4andreew : Hard : Brazil Map
 ```
 
-### Not recognized maps
+### Not recognized Kog maps
 Maps that are in the kog maps zip file but are not listed.
 ```
 0tmp-Portal
