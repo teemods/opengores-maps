@@ -14,6 +14,7 @@ Maps that do not belong to the kog official list.
 ```
 - Seed : Training
 - Blessing : Training
+- Simpler : Easy : 3 Star : 3 Points
 - SunnySideGores : Easy : 2 Star : 2 Points : Brazil Map
 - Prl4andreew : Hard : 1 Star : 6 Points : Brazil Map
 ```
