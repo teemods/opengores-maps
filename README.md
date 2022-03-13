@@ -6,8 +6,8 @@ All DDNet Gores maps, ready to be run in your own server! Simply download this r
 
 To download this repository you have two choices:
 
-1. [Download the ZIP](https://github.com/teeheart/gores-maps/archive/master.zip) and you get a current snapshot of all maps, but can't easily update it.
-2. `git clone https://github.com/teeheart/gores-maps` and you have the full history of this git repository. To update your copy of maps simply execute `git pull`.
+1. [Download the ZIP](https://github.com/teeframe/gores-maps/archive/master.zip) and you get a current snapshot of all maps, but can't easily update it.
+2. `git clone https://github.com/teeframe/gores-maps` and you have the full history of this git repository. To update your copy of maps simply execute `git pull`.
 
 ### Special maps
 Maps that do not belong to the kog official list.
