@@ -3,14 +3,9 @@ Gores maps
 
 All DDNet Gores maps, ready to be run in your own server! Simply download this repository, add your DDNet-Server binary (distributed together with the DDNet client) and start the server.
 
-
-To download this repository you have two choices:
-
-1. [Download the ZIP](https://github.com/teeframe/gores-maps/archive/master.zip) and you get a current snapshot of all maps, but can't easily update it.
-2. `git clone https://github.com/teeframe/gores-maps` and you have the full history of this git repository. To update your copy of maps simply execute `git pull`.
-
 ### Special maps
 Maps that do not belong to the kog official list.
+
 ```
 - Seed : Training
 - Blessing : Training
@@ -20,7 +15,8 @@ Maps that do not belong to the kog official list.
 ```
 
 ### Not recognized Kog maps
-Maps that are in the kog maps zip file but are not listed.
+Maps that were in the kog maps zip file but are not listed in their system.
+
 ```
 0tmp-Portal
 AliveFNGores
