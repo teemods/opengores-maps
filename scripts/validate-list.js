@@ -20,7 +20,7 @@ const updatedList = await page.evaluate(() => {
 })
 
 for (const { name, type } of updatedList) {
-    if (! fs.existsSync(`maps/${name}.map`)) {
+    if (! fs.existsSync(`../maps/${name}.map`)) {
         console.warn(`Map ${name} - ${type} is missing!`)
     }
 }
