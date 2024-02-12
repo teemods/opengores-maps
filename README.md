@@ -14,6 +14,14 @@ Maps that do not belong to the kog official list.
 - Prl4andreew : Hard : 1 Star : 6 Points : Brazil Map
 ```
 
+### Texture error Kog maps
+
+```
+Vampirali2
+Q-Event3
+Yo5
+```
+
 ### Not recognized Kog maps
 Maps that were in the kog maps zip file but are not listed in their system.
 
